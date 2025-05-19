@@ -1,4 +1,5 @@
 #Mobile Phone Sales Dashboard – Power BI Project
+
 Key KPIs such as Total Sales, Total Quantity Sold, Number of Transactions, and Average Order Value are visualized through dynamic charts and slicers for informed business decisions.
 
 ##📌 Tools Used:
@@ -12,6 +13,7 @@ Key KPIs such as Total Sales, Total Quantity Sold, Number of Transactions, and A
 - Interactive Visualizations
 
 ##💼 Problem Statement
+
 A mobile phone retail company operates in multiple cities across India and offers various mobile brands and payment options. However, they lacked an intuitive and real-time dashboard to analyze:
 
 - Which brands and models drive the most sales?
@@ -23,6 +25,7 @@ A mobile phone retail company operates in multiple cities across India and offer
 - How does sales trend monthly, and on which day of the week is performance highest?
 
 ##🎯 Analysis Goal
+
 Build an interactive dashboard to:
 
 - Track monthly performance by sales and quantity.
@@ -36,6 +39,7 @@ Build an interactive dashboard to:
 - Provide a holistic view for executive decision-making.
 
 ##✅ Final Outcomes
+
 Created a professional Power BI dashboard showcasing:
 
 - ₹769M in total sales
