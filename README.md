@@ -12,6 +12,8 @@ Key KPIs such as Total Sales, Total Quantity Sold, Number of Transactions, and A
 
 - Interactive Visualizations
 
+- Dashboard Interaction-<a href>
+
 ##💼 Problem Statement
 
 A mobile phone retail company operates in multiple cities across India and offers various mobile brands and payment options. However, they lacked an intuitive and real-time dashboard to analyze:
