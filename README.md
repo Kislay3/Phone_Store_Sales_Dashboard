@@ -12,7 +12,7 @@ Key KPIs such as Total Sales, Total Quantity Sold, Number of Transactions, and A
 
 - Interactive Visualizations
 
-- Dataset used -<a href="https://github.com/Kislay3/Phone_Store_Sales_Dashboard/blob/main/Mobile%20Phone%20Sales%20Report.pdf">Mobile Store </a>
+- Dataset used - <a href="https://github.com/Kislay3/Phone_Store_Sales_Dashboard/blob/main/Mobile%20Phone%20Sales%20Report.pdf">Mobile Store</a>
 
 
 # 💼 Problem Statement
