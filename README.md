@@ -27,7 +27,7 @@ A mobile phone retail company operates in multiple cities across India and offer
 
 - How does sales trend monthly, and on which day of the week is performance highest?
 
-- Dashboard Interaction -<a href="
+- Dashboard Interaction -<a href="https://github.com/Kislay3/Phone_Store_Sales_Dashboard/blob/main/Mobile%20Phone%20Sales%20Report.pdf>View Dashboard</a>
 
 # 🎯 Analysis Goal
 
