@@ -43,6 +43,11 @@ Build an interactive dashboard to:
 
 - Provide a holistic view for executive decision-making.
 
+  ## Dashboard
+
+  ![Screenshot 2025-05-19 042748](https://github.com/user-attachments/assets/3c684d11-280d-4d4c-8546-7e7109d657fb)
+
+
 # ✅ Final Outcomes
 
 Created a professional Power BI dashboard showcasing:
